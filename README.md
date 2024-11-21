@@ -1,4 +1,4 @@
-# Tracky [Demo](https://tracky-flame.vercel.app/)
+# Tracky 
 
 _Take command of your life_
 
