@@ -1,7 +1,3 @@
-Here’s a revamped version of your documentation with emojis and a touch of fun! 🎉  
-
----
-
 # **Tracky** 🚀  
 ### _Take command of your life_  
 
